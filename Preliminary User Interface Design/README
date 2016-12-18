@@ -1,0 +1,21 @@
+Colors and basic design guidelines can be found at:
+http://identity.yale.edu/web
+
+Yale Blue -> lighter blues: 
+#00356b
+#286dc0
+#63aaff
+
+Black -> lighter grays -> white:
+#222222
+#4a4a4a
+#978d85
+#dddddd
+#f9f9f9
+
+Accents: Green -> Orange
+#5f712d
+#bd5319
+
+Folder "newsFiles" contains images and text files used to populate fields 
+for the news screen in mockupsDraft.xd
