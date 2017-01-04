@@ -17,5 +17,11 @@ Accents: Green -> Orange
 #5f712d
 #bd5319
 
+Current font is Android default: Roboto
+In general, use 20pt font for title and 14pt font for body
+Some exceptions use 16pt as well
+
 Folder "newsFiles" contains images and text files used to populate fields 
 for the news screen in mockupsDraft.xd
+
+Folder "eventsFiles" contains text files used to populate fields for events screens in mockupsDraft.xd
