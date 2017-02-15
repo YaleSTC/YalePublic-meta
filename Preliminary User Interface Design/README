@@ -1,3 +1,15 @@
+Currently working on: Mockup of overall app navigation
+see YaleMobile_Nav_iOS.xd and YaleMobile_Nav_Android
+
+Folder "not current" contains drafts of News and Events features
+
+Folder "newsFiles" contains images and text files used to populate fields 
+for the news screen in mockupsDraft.xd
+
+Folder "eventsFiles" contains text files used to populate fields for events screens in mockupsDraft.xd
+
+--------------------
+
 Colors and basic design guidelines can be found at:
 http://identity.yale.edu/web
 
@@ -16,12 +28,3 @@ Black -> lighter grays -> white:
 Accents: Green -> Orange
 #5f712d
 #bd5319
-
-Current font is Android default: Roboto
-In general, use 20pt font for title and 14pt font for body
-Some exceptions use 16pt as well
-
-Folder "newsFiles" contains images and text files used to populate fields 
-for the news screen in mockupsDraft.xd
-
-Folder "eventsFiles" contains text files used to populate fields for events screens in mockupsDraft.xd
