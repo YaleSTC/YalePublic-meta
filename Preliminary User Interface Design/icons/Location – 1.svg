@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="251 311 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Location_1);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #95989a;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Location_1">
+      <rect x="251" y="311" width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Location_1" data-name="Location – 1" class="cls-1">
+    <g id="Group_4" data-name="Group 4" transform="translate(15 -304.263)">
+      <g id="Rectangle_5" data-name="Rectangle 5" class="cls-2" transform="translate(243.737 634.359) rotate(-45)">
+        <path class="cls-3" d="M10.2,0h0a10.2,10.2,0,0,1,10.2,10.2v0a10.2,10.2,0,0,1-10.2,10.2H0a0,0,0,0,1,0,0V10.2A10.2,10.2,0,0,1,10.2,0Z"/>
+        <path class="cls-4" d="M10.2.5h0a9.7,9.7,0,0,1,9.7,9.7v0a9.7,9.7,0,0,1-9.7,9.7H.726A.226.226,0,0,1,.5,19.682V10.2A9.7,9.7,0,0,1,10.2.5Z"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(251.512 627.978)">
+        <circle class="cls-3" cx="6.655" cy="6.655" r="6.655"/>
+        <circle class="cls-4" cx="6.655" cy="6.655" r="6.155"/>
+      </g>
+    </g>
+  </g>
+</svg>
