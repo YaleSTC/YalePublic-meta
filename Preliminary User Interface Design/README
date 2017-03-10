@@ -1,12 +1,19 @@
-<b>Currently working on:</b>
+Currently working on:
+
 Mockup of overall app navigation
     see YaleMobile_Nav_iOS.xd and YaleMobile_Nav_Android.xd
+
 Homescreen layouts
     see YaleMobile_HomeScreen_iOS.xd and YaleMobile_HomeScreen_Android.xd
 
+--------------------
+
 Folder "icons" contains vector graphics
+
 Folder "old_mockups" contains past drafts
+
 Folder "photos" contains images used in news screen and home screen
+
 Folder "text" contains text files used to populate fields 
 
 --------------------
