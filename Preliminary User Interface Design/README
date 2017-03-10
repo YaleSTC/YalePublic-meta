@@ -1,12 +1,13 @@
-Currently working on: Mockup of overall app navigation
-see YaleMobile_Nav_iOS.xd and YaleMobile_Nav_Android.xd
+<b>Currently working on:</b>
+Mockup of overall app navigation
+    see YaleMobile_Nav_iOS.xd and YaleMobile_Nav_Android.xd
+Homescreen layouts
+    see YaleMobile_HomeScreen_iOS.xd and YaleMobile_HomeScreen_Android.xd
 
-Folder "not current" contains drafts of News and Events features
-
-Folder "newsFiles" contains images and text files used to populate fields 
-for the news screen in mockupsDraft.xd
-
-Folder "eventsFiles" contains text files used to populate fields for events screens in mockupsDraft.xd
+Folder "icons" contains vector graphics
+Folder "old_mockups" contains past drafts
+Folder "photos" contains images used in news screen and home screen
+Folder "text" contains text files used to populate fields 
 
 --------------------
 
