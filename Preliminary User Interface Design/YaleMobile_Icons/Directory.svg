@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-157 32 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4a4a4a;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_account_box_black_24px" transform="translate(-181 -65)">
+    <path id="Path_614" data-name="Path 614" class="cls-1" d="M3,4.583V15.667A1.583,1.583,0,0,0,4.583,17.25H15.667a1.588,1.588,0,0,0,1.583-1.583V4.583A1.588,1.588,0,0,0,15.667,3H4.583A1.583,1.583,0,0,0,3,4.583ZM12.5,7.75a2.375,2.375,0,1,1-2.375-2.375A2.372,2.372,0,0,1,12.5,7.75ZM5.375,14.083c0-1.583,3.167-2.454,4.75-2.454s4.75.871,4.75,2.454v.792h-9.5Z" transform="translate(23.375 96.375)"/>
+    <path id="Path_615" data-name="Path 615" class="cls-2" d="M0,0H19V19H0Z" transform="translate(24 97)"/>
+  </g>
+</svg>

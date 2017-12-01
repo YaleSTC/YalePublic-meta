@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 318 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #4a4a4a;
+      }
+    </style>
+  </defs>
+  <g id="ic_fitness_center_black_24px" transform="translate(-181 -65)">
+    <path id="Path_626" data-name="Path 626" class="cls-1" d="M0,0H19V19H0Z" transform="translate(199 383)"/>
+    <path id="Path_627" data-name="Path 627" class="cls-2" d="M16.7,12.181l1.132-1.132L16.7,9.917l-2.826,2.826L7.09,5.958,9.917,3.132,8.785,2,7.652,3.132,6.52,2,4.826,3.694,3.694,2.562,2.562,3.694,3.694,4.826,2,6.52,3.132,7.652,2,8.785,3.132,9.917,5.958,7.09l6.785,6.785L9.917,16.7l1.132,1.132L12.181,16.7l1.132,1.132,1.694-1.694,1.132,1.132,1.132-1.132-1.132-1.132,1.694-1.694Z" transform="translate(198.583 382.583)"/>
+  </g>
+</svg>

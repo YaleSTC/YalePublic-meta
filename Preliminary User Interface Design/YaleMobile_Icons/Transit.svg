@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="96 33 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4a4a4a;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_train_black_24px" transform="translate(96 33)">
+    <path id="Path_618" data-name="Path 618" class="cls-1" d="M10,2C7,2,4,2.375,4,5v7.125A2.628,2.628,0,0,0,6.625,14.75L5.5,15.875v.375H7.172l1.5-1.5H11.5l1.5,1.5h1.5v-.375L13.375,14.75A2.628,2.628,0,0,0,16,12.125V5C16,2.375,13.315,2,10,2ZM6.625,13.25A1.125,1.125,0,1,1,7.75,12.125,1.123,1.123,0,0,1,6.625,13.25ZM9.25,8H5.5V5H9.25Zm1.5,0V5H14.5V8Zm2.625,5.25A1.125,1.125,0,1,1,14.5,12.125,1.123,1.123,0,0,1,13.375,13.25Z" transform="translate(-1 -0.5)"/>
+    <path id="Path_619" data-name="Path 619" class="cls-2" d="M0,0H18V18H0Z"/>
+  </g>
+</svg>

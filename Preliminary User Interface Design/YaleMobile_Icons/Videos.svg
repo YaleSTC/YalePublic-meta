@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="276 1192 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4a4a4a;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_theaters_black_24px" transform="translate(276 1192)">
+    <path id="Path_147" data-name="Path 147" class="cls-1" d="M15.083,3V4.583H13.5V3H7.167V4.583H5.583V3H4V17.25H5.583V15.667H7.167V17.25H13.5V15.667h1.583V17.25h1.583V3ZM7.167,14.083H5.583V12.5H7.167Zm0-3.167H5.583V9.333H7.167Zm0-3.167H5.583V6.167H7.167Zm7.917,6.333H13.5V12.5h1.583Zm0-3.167H13.5V9.333h1.583Zm0-3.167H13.5V6.167h1.583Z" transform="translate(-0.833 -0.625)"/>
+    <path id="Path_148" data-name="Path 148" class="cls-2" d="M0,0H19V19H0Z"/>
+  </g>
+</svg>

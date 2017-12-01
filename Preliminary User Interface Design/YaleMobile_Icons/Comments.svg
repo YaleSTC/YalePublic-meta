@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="349 2147 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4a4a4a;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_chat_bubble_black_24px" transform="translate(349 2147)">
+    <path id="Path_519" data-name="Path 519" class="cls-1" d="M16.25,2H3.583A1.588,1.588,0,0,0,2,3.583v14.25l3.167-3.167H16.25a1.588,1.588,0,0,0,1.583-1.583v-9.5A1.588,1.588,0,0,0,16.25,2Z" transform="translate(-0.417 -0.417)"/>
+    <path id="Path_520" data-name="Path 520" class="cls-2" d="M0,0H19V19H0Z"/>
+  </g>
+</svg>

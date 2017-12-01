@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1386 451 30.23 30.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999c9e;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_camera_alt_black_24px" transform="translate(1386 451)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="4.031" cy="4.031" r="4.031" transform="translate(11.084 11.084)"/>
+    <path id="Path_38" data-name="Path 38" class="cls-1" d="M10.817,2,8.512,4.519H4.519A2.527,2.527,0,0,0,2,7.038V22.154a2.527,2.527,0,0,0,2.519,2.519H24.673a2.527,2.527,0,0,0,2.519-2.519V7.038a2.527,2.527,0,0,0-2.519-2.519H20.68L18.375,2ZM14.6,20.894a6.3,6.3,0,1,1,6.3-6.3A6.3,6.3,0,0,1,14.6,20.894Z" transform="translate(0.519 0.519)"/>
+    <path id="Path_39" data-name="Path 39" class="cls-2" d="M0,0H30.23V30.23H0Z"/>
+  </g>
+</svg>
